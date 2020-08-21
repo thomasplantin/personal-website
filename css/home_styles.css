@@ -1,0 +1,219 @@
+html, body {
+  font-family: 'Courier Prime', monospace;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #41444b;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+  color: #e1f4f3;
+}
+
+p {
+  color: #e1f4f3;
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+a {
+  color: #e1f4f3;
+}
+
+a:hover {
+  text-decoration:none;
+  color:inherit;
+}
+
+img {
+  height: 200px;
+  width: 350px;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  margin: auto;
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.central-square {
+  background-color: #e1f4f3;
+  border-radius: 20px;
+  margin: auto;
+  padding: 30px;
+}
+
+.central-square h1 {
+  color: #41444b;
+}
+
+.central-square h2 {
+  color: #41444b;
+}
+
+.central-square p {
+  color: #41444b;
+}
+
+.central-square a {
+  color: #41444b;
+}
+
+.central-square a:hover {
+  color: #6ebfb5;
+}
+
+.align-left {
+  text-align:left;
+}
+
+.align-right {
+  text-align:right;
+}
+
+.header-underlined {
+  text-decoration: underline;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+/* HOME */
+
+.home-section {
+  margin: 20px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.home-section h2 {
+  color: #e1f4f3;
+}
+
+.home-section h4 {
+  color: #e1f4f3;
+}
+
+.home-section p {
+  color: #e1f4f3;
+}
+
+.home-section a {
+  color: #e1f4f3;
+}
+
+.about-me-section p {
+  color: #41444b;
+}
+
+.ut-section {
+  background-color: #bf5701;
+}
+
+.trinity-section {
+  background-color: #723130;
+}
+
+.skills-section {
+  background-color: #5dbcd2;
+}
+
+.apple-section {
+  background-color: #323232;
+}
+
+.apple-section li {
+  color: #e1f4f3;
+}
+
+.table-home {
+  margin-left: 30%;
+}
+
+/* PORTFOLIO */
+
+.portfolio-section {
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #1f4068;
+  border-radius: 5px;
+}
+
+.portfolio-section h2 {
+  color: #6ebfb5;
+}
+
+.portfolio-section p {
+  color: #e1f4f3;
+}
+
+.portfolio-section a {
+  color: #e1f4f3;
+}
+
+.portfolio-section li {
+  color: #e1f4f3;
+}
+
+.img-struc-left {
+  margin: 0 20px 0 0;
+  border-radius: 5px;
+}
+
+.img-struc-right {
+  margin: 0 0 20px 0;
+  border-radius: 5px;
+}
+
+.big-link {
+  font-size: 5rem;
+  margin-right: 40%;
+}
+
+.table-width {
+  width: 100%;
+}
+
+/* Footer Section */
+
+.container-fluid-footer {
+  padding: 0 15% 1%;
+}
+
+.table-bottom {
+  margin: auto;
+}
+
+.fas-bottom {
+  color: #fff;
+  padding: 0 10px 20px;
+}
+
+.copyright-para {
+  font-size: 1rem;
+}
