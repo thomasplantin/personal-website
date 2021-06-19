@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --sc_blue: #253746;
+  --sc_blue: #253746; /* Old orange = #f4623a */
   --sc_grey: #98a4ae;
   --sc_gold: #d3bc8d;
   --blue: #007bff;
