@@ -1048,3 +1048,19 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* THOMAS ADDITIONS */
+
+.thank-you-div {
+  color: #0563bb;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.thank-you-h2 {
+  text-align: right;
+}

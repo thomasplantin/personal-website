@@ -261,4 +261,9 @@
     })
   });
 
+  /**
+   * THOMAS ADDITIONS - Clear the contact form fields
+   */
+  // document.getElementById("emailForm").reset();
+
 })()
